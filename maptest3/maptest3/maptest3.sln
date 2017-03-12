@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maptest3", "maptest3.csproj", "{03CE030D-01F9-4FC8-9745-33451E14DEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Release|iPhone.Build.0 = Release|iPhone
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{03CE030D-01F9-4FC8-9745-33451E14DEBB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

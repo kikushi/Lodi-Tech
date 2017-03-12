@@ -1,0 +1,10 @@
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/optimized/monkeyfu.png
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/optimized/
+/Users/Adjita/Projects/maptest3/maptest3/bin/iPhoneSimulator/Debug/maptest3.exe.mdb
+/Users/Adjita/Projects/maptest3/maptest3/bin/iPhoneSimulator/Debug/maptest3.exe
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/maptest3.exe
+/Users/Adjita/Projects/maptest3/maptest3/obj/iPhoneSimulator/Debug/maptest3.exe.mdb
